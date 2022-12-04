@@ -1,0 +1,12 @@
+{
+  "name": "tomasdeambrosi_sesion14_ejercicio1_javascriptbasico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
